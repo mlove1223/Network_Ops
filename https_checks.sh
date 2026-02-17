@@ -1,14 +1,8 @@
 #!/bin/bash
 
 SITES=(
-https://kbase.sram.com/kb/index.php?CategoryID=27
-https://swiki.sram.com/
-http://psp.sram.com/
-http://serilook.sram.com/
-https://cqf.sram.com/cqfs.php
-https://sram-prod.mdm.stibosystems.com/
-https://sram-preprod.mdm.stibosystems.com/
-https://sram-dev.mdm.stibosystems.com/
+site.site.com
+site.site.com
 )
 
 echo "---- HTTPS Check Started ----"
